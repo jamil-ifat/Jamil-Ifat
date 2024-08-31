@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<h1 align="center">Hi 👋, I'm Jamil Aktar Ifat</h1>
+<h1 align="center">Hi, I'm Jamil Aktar Ifat!</h1>
 <h3 align="center">Full-Stack Developer | Python, JavaScript, React, Tailwind CSS | Crafting Scalable Web Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/64/3f/9d643f53934a11f35e1824df87fdbe33.gif">
 
