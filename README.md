@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamil-aktar-ifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-// - 🔭 **Current Work**: [Estate Sphere](https://github.com/Jamil-Aktar-Ifat/estate-sphere) - A dynamic real estate platform utilizing React, Node.js, Express, MongoDB, Firebase, and Tailwind CSS. Key features include user authentication, property management, and advanced search capabilities.
 
 - 🌱 **Currently Learning**: Advanced Node.js & Express, TypeScript, AWS Cloud Computing, DevOps (CI/CD, Docker, Terraform), and Next.js.
 
