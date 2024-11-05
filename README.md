@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://camo.githubusercontent.com/e25d173d73b3b9ea132e4b1ad6ac45ce715bd826e6b6947010d05c24e91fd125/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067)
 <h1 align="center">Hi, I'm Jamil Aktar Ifat!</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=9500&pause=1000&width=2060&lines=Full-Stack+Developer+%7C+Java%2C+JavaScript%2C+React%2C+MongoDB%2C+Node%2C+Express+%7C+Crafting+Scalable+Web+Solutions" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/64/3f/9d643f53934a11f35e1824df87fdbe33.gif">
