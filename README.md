@@ -8,7 +8,7 @@
 
 - 🌱 **Currently Learning**: Advanced Node.js & Express, TypeScript, AWS Cloud Computing, DevOps (CI/CD, Docker, Terraform), and Next.js.
 
-- 🤝 **Looking for Help With**: UI/UX Design enhancements, Security Best Practices, Performance Optimization, and Testing & Debugging.
+- 🤝 **Looking for Help With**: UI/UX Design enhancements, Security Best Practices, Performance Optimisation, and Testing & Debugging.
 
 - 📝 **Writing About**: [Web Development](#), [Python Programming](#), [Digital Marketing](#), [Tech Trends](#).
 
@@ -16,7 +16,7 @@
 
 - 📫 **Reach Me**: [mifat01@student.bbk.ac.uk](mailto:mifat01@student.bbk.ac.uk)
 
-- 📄 **Experience**: As a Full-Stack Developer, I specialize in technologies like React, Node.js, MongoDB, and Python. I am currently pursuing a BSc in Computing.
+- 📄 **Experience**: As a Full-Stack Developer, I specialise in technologies like React, Node.js, MongoDB, and Python. I am currently pursuing a BSc in Computing.
 
 - ⚡ **Fun Fact**: I once set a goal to learn every keyboard shortcut in my favorite IDE. I’m now the fastest coder in the office... until I forget them!
 
