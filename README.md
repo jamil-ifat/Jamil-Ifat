@@ -6,19 +6,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamil-aktar-ifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
-- 🌱 **Currently Learning**: Advanced Node.js & Express, TypeScript, AWS Cloud Computing, DevOps (CI/CD, Docker, Terraform), and Next.js.
+-  **Currently Learning**: Advanced Node.js & Express, TypeScript, AWS Cloud Computing, DevOps (CI/CD, Docker, Terraform), and Next.js.
 
-- 🤝 **Looking for Help With**: UI/UX Design enhancements, Security Best Practices, Performance Optimisation, and Testing & Debugging.
+-  **Looking for Help With**: UI/UX Design enhancements, Security Best Practices, Performance Optimisation, and Testing & Debugging.
 
-- 📝 **Writing About**: [Web Development](#), [Python Programming](#), [Digital Marketing](#), [Tech Trends](#).
+-  **Writing About**: [Web Development](#), [Python Programming](#), [Digital Marketing](#), [Tech Trends](#).
 
-- 💬 **Ask Me About**: Full-Stack Development, Python, API Integration, Digital Marketing & SEO, UI/UX Design, and Project Management.
+-  **Ask Me About**: Full-Stack Development, Python, API Integration, Digital Marketing & SEO, UI/UX Design, and Project Management.
 
-- 📫 **Reach Me**: [mifat01@student.bbk.ac.uk](mailto:mifat01@student.bbk.ac.uk)
+-  **Reach Me**: [mifat01@student.bbk.ac.uk](mailto:mifat01@student.bbk.ac.uk)
 
-- 📄 **Experience**: As a Full-Stack Developer, I specialise in technologies like React, Node.js, MongoDB, and Python. I am currently pursuing a BSc in Computing.
+-  **Experience**: As a Full-Stack Developer, I specialise in technologies like React, Node.js, MongoDB, and Python. I am currently pursuing a BSc in Computing.
 
-- ⚡ **Fun Fact**: I once set a goal to learn every keyboard shortcut in my favorite IDE. I’m now the fastest coder in the office... until I forget them!
+-  **Fun Fact**: I once set a goal to learn every keyboard shortcut in my favorite IDE. I’m now the fastest coder in the office... until I forget them!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
