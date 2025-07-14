@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamil-aktar-ifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
--  **Currently Learning**: Advanced Node.js & Express, TypeScript, AWS Cloud Computing, DevOps (CI/CD, Docker, Terraform), and Next.js.
+-  **Currently Learning**: Advanced Node.js & Express, TypeScript, Azure/AWS Cloud Computing, DevOps (CI/CD, Docker, Terraform), and Next.js.
 
 -  **Looking for Help With**: UI/UX Design enhancements, Security Best Practices, Performance Optimisation, and Testing & Debugging.
 
