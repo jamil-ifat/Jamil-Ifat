@@ -3,7 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=9500&pause=1000&width=2060&lines=Full-Stack+Developer+%7C+Java%2C+JavaScript%2C+React%2C+MongoDB%2C+Node%2C+Express+%7C+Crafting+Scalable+Web+Solutions" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/64/3f/9d643f53934a11f35e1824df87fdbe33.gif">
 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamil-ifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
 -  **Currently Learning**: Advanced Node.js & Express, TypeScript, Azure/AWS Cloud Computing, DevOps (CI/CD, Docker, Terraform), and Next.js.
