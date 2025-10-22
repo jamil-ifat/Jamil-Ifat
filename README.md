@@ -7,8 +7,7 @@
 </picture>
 
 <!-- Striking Name Header with Custom Styling -->
-<h1>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
+<h1> 
   I'm <span style="background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Jamil Ifat</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
@@ -39,7 +38,7 @@
 <br>
 
 <!-- About Section with Icons -->
-## 🚀 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -47,7 +46,7 @@ class JamilIfat {
   constructor() {
     this.name = "Jamil Ifat";
     this.role = "Full-Stack Developer";
-    this.location = "Dhaka, Bangladesh 🇧🇩";
+    this.location = "London, England";
     this.education = "BSc in Computing (In Progress)";
   }
   
@@ -70,23 +69,23 @@ const jamil = new JamilIfat();
 <br clear="right"/>
 
 <!-- Tech Stack with Custom Icons -->
-## 🛠️ Technology Arsenal
+## Technology Arsenal
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" alt="Languages" /></a>
 
-### 🎨 Frontend Development
+### Frontend Development
 <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,jquery" alt="Frontend" /></a>
 
-### ⚙️ Backend Development
+### Backend Development
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,graphql" alt="Backend" /></a>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,git" alt="Cloud & DevOps" /></a>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,bash,npm,yarn" alt="Tools" /></a>
 
 </div>
@@ -94,7 +93,7 @@ const jamil = new JamilIfat();
 <br>
 
 <!-- Professional Expertise Section -->
-## 💼 Professional Expertise
+## Professional Expertise
 
 <div align="center">
 
@@ -102,7 +101,7 @@ const jamil = new JamilIfat();
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Core Competencies
+### Core Competencies
 
 Architecture:
   - Microservices Design
@@ -119,7 +118,7 @@ Development:
 </td>
 <td width="50%" valign="top">
 
-### 🌟 Additional Skills
+### Additional Skills
 
 Leadership:
   - UI/UX Design Enhancement
@@ -145,34 +144,25 @@ Marketing Tech:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamilifat&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilifat&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamil-ifat&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamil-ifat&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamilifat&theme=react&hide_border=true&background=0D1117&stroke=00C9FF&ring=92FE9D&fire=FF6B9D&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamil-ifat&theme=react&hide_border=true&background=0D1117&stroke=00C9FF&ring=92FE9D&fire=FF6B9D&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamilifat&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<!-- Trophy Section -->
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamilifat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamil-ifat&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
 
 <!-- Current Learning Path -->
-## 📚 Learning Journey
+## Learning Journey
 
 <div align="center">
 
@@ -197,23 +187,12 @@ graph LR
 
 <br>
 
-<!-- Writing & Content -->
-## ✍️ Technical Writing
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> *Currently Documenting:*
-
-- 🌐 *Web Development* - Best practices and modern frameworks
-- 🐍 *Python* - Advanced concepts and real-world applications  
-- ☁️ *AWS Cloud* - Architecture patterns and optimization techniques
-
-<br>
-
 <!-- Connect Section -->
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
-### 📫 Reach Out
+## Reach Out
 
 <a href="mailto:jamil@studioriad.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
