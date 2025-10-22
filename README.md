@@ -7,7 +7,8 @@
 </picture>
 
 <!-- Striking Name Header with Custom Styling -->
-<h1> 
+<h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
   I'm <span style="background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Jamil Ifat</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
@@ -38,15 +39,15 @@
 <br>
 
 <!-- About Section with Icons -->
-## About Me
+## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-class JamilIfat {
+class jamil-ifat {
   constructor() {
     this.name = "Jamil Ifat";
     this.role = "Full-Stack Developer";
-    this.location = "London, England";
+    this.location = "Dhaka, Bangladesh 🇧🇩";
     this.education = "BSc in Computing (In Progress)";
   }
   
@@ -64,28 +65,28 @@ class JamilIfat {
   }
 }
 
-const jamil = new JamilIfat();
+const jamil = new jamil-ifat();
 
 <br clear="right"/>
 
 <!-- Tech Stack with Custom Icons -->
-## Technology Arsenal
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" alt="Languages" /></a>
 
-### Frontend Development
+### 🎨 Frontend Development
 <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,jquery" alt="Frontend" /></a>
 
-### Backend Development
+### ⚙️ Backend Development
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,graphql" alt="Backend" /></a>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 <a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,git" alt="Cloud & DevOps" /></a>
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,bash,npm,yarn" alt="Tools" /></a>
 
 </div>
@@ -93,7 +94,7 @@ const jamil = new JamilIfat();
 <br>
 
 <!-- Professional Expertise Section -->
-## Professional Expertise
+## 💼 Professional Expertise
 
 <div align="center">
 
@@ -101,7 +102,7 @@ const jamil = new JamilIfat();
 <tr>
 <td width="50%" valign="top">
 
-### Core Competencies
+### 🎯 Core Competencies
 
 Architecture:
   - Microservices Design
@@ -118,7 +119,7 @@ Development:
 </td>
 <td width="50%" valign="top">
 
-### Additional Skills
+### 🌟 Additional Skills
 
 Leadership:
   - UI/UX Design Enhancement
@@ -161,8 +162,17 @@ Marketing Tech:
 
 <br>
 
+<!-- Trophy Section -->
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jamil-ifat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+</div>
+
+<br>
+
 <!-- Current Learning Path -->
-## Learning Journey
+## 📚 Learning Journey
 
 <div align="center">
 
@@ -187,23 +197,34 @@ graph LR
 
 <br>
 
+<!-- Writing & Content -->
+## ✍️ Technical Writing
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> *Currently Documenting:*
+
+- 🌐 *Web Development* - Best practices and modern frameworks
+- 🐍 *Python* - Advanced concepts and real-world applications  
+- ☁️ *AWS Cloud* - Architecture patterns and optimization techniques
+
+<br>
+
 <!-- Connect Section -->
-## Let's Connect & Collaborate
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-## Reach Out
+### 📫 Reach Out
 
 <a href="mailto:jamil@studioriad.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/jamilifat">
+<a href="https://linkedin.com/in/jamil-ifat">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/jamilifat">
+<a href="https://twitter.com/jamil-ifat">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="https://jamilifat.dev">
+<a href="https://jamil-ifat.dev">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -234,14 +255,14 @@ graph LR
 <br>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=jamilifat&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=jamil-ifat&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
 <!-- Animated Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-*⭐ From [Jamil Ifat](https://github.com/jamilifat) | Building the Future, One Commit at a Time*
+*⭐ From [Jamil Ifat](https://github.com/jamil-ifat) | Building the Future, One Commit at a Time*
 
 </div>
 user-images.githubusercontent.com
