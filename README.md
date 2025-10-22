@@ -43,7 +43,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-class jamil-ifat {
+```javascript
+class jamilifat {
   constructor() {
     this.name = "Jamil Ifat";
     this.role = "Full-Stack Developer";
@@ -65,7 +66,8 @@ class jamil-ifat {
   }
 }
 
-const jamil = new jamil-ifat();
+const jamil = new jamilifat();
+```
 
 <br clear="right"/>
 
@@ -104,6 +106,7 @@ const jamil = new jamil-ifat();
 
 ### 🎯 Core Competencies
 
+```yaml
 Architecture:
   - Microservices Design
   - RESTful & GraphQL APIs
@@ -115,12 +118,14 @@ Development:
   - Performance Optimization
   - Security Best Practices
   - Testing & Debugging
+```
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌟 Additional Skills
 
+```yaml
 Leadership:
   - UI/UX Design Enhancement
   - Project Management
@@ -132,6 +137,7 @@ Marketing Tech:
   - SEO Optimization
   - Digital Marketing Solutions
   - Analytics Implementation
+```
 
 </td>
 </tr>
@@ -176,7 +182,7 @@ Marketing Tech:
 
 <div align="center">
 
-mermaid
+```mermaid
 graph LR
     A[Current Focus] --> B[Advanced Node.js]
     A --> C[TypeScript Mastery]
@@ -192,6 +198,7 @@ graph LR
     
     style A fill:#00C9FF,stroke:#92FE9D,stroke-width:3px,color:#000
     style I fill:#92FE9D,stroke:#00C9FF,stroke-width:3px,color:#000
+```
 
 </div>
 
@@ -200,11 +207,11 @@ graph LR
 <!-- Writing & Content -->
 ## ✍️ Technical Writing
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> *Currently Documenting:*
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Currently Documenting:**
 
-- 🌐 *Web Development* - Best practices and modern frameworks
-- 🐍 *Python* - Advanced concepts and real-world applications  
-- ☁️ *AWS Cloud* - Architecture patterns and optimization techniques
+- 🌐 **Web Development** - Best practices and modern frameworks
+- 🐍 **Python** - Advanced concepts and real-world applications  
+- ☁️ **AWS Cloud** - Architecture patterns and optimization techniques
 
 <br>
 
@@ -248,9 +255,8 @@ graph LR
 
 ### 💭 Philosophy
 
-*"Code is not just about solving problems – it's about crafting experiences,*  
-*building systems that scale, and creating value that lasts."*
-
+> *"Code is not just about solving problems – it's about crafting experiences,*  
+> *building systems that scale, and creating value that lasts."*
 
 <br>
 
@@ -262,7 +268,6 @@ graph LR
 <!-- Animated Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-*⭐ From [Jamil Ifat](https://github.com/jamil-ifat) | Building the Future, One Commit at a Time*
+**⭐ From [Jamil Ifat](https://github.com/jamil-ifat) | Building the Future, One Commit at a Time**
 
 </div>
-user-images.githubusercontent.com
