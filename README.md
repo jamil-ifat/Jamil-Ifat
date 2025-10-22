@@ -8,7 +8,6 @@
 
 <!-- Striking Name Header with Custom Styling -->
 <h1>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
   I'm <span style="background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Jamil Ifat</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
@@ -39,7 +38,7 @@
 <br>
 
 <!-- About Section with Icons -->
-## 🚀 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -48,7 +47,7 @@ class jamilifat {
   constructor() {
     this.name = "Jamil Ifat";
     this.role = "Full-Stack Developer";
-    this.location = "Dhaka, Bangladesh 🇧🇩";
+    this.location = "London, England";
     this.education = "BSc in Computing (In Progress)";
   }
   
@@ -72,23 +71,23 @@ const jamil = new jamilifat();
 <br clear="right"/>
 
 <!-- Tech Stack with Custom Icons -->
-## 🛠️ Technology Arsenal
+## Technology Arsenal
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" alt="Languages" /></a>
 
-### 🎨 Frontend Development
+### Frontend Development
 <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,jquery" alt="Frontend" /></a>
 
-### ⚙️ Backend Development
+### Backend Development
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,graphql" alt="Backend" /></a>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,git" alt="Cloud & DevOps" /></a>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,bash,npm,yarn" alt="Tools" /></a>
 
 </div>
@@ -96,7 +95,7 @@ const jamil = new jamilifat();
 <br>
 
 <!-- Professional Expertise Section -->
-## 💼 Professional Expertise
+## Professional Expertise
 
 <div align="center">
 
@@ -104,7 +103,7 @@ const jamil = new jamilifat();
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Core Competencies
+### Core Competencies
 
 ```yaml
 Architecture:
@@ -123,7 +122,7 @@ Development:
 </td>
 <td width="50%" valign="top">
 
-### 🌟 Additional Skills
+### Additional Skills
 
 ```yaml
 Leadership:
@@ -159,70 +158,28 @@ Marketing Tech:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamil-ifat&theme=react&hide_border=true&background=0D1117&stroke=00C9FF&ring=92FE9D&fire=FF6B9D&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamil-ifat&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<!-- Trophy Section -->
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamil-ifat&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
-</div>
-
-<br>
-
-<!-- Current Learning Path -->
-## 📚 Learning Journey
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Current Focus] --> B[Advanced Node.js]
-    A --> C[TypeScript Mastery]
-    A --> D[AWS Cloud]
-    A --> E[Docker & K8s]
-    B --> F[Express Architecture]
-    C --> F
-    D --> G[Cloud Solutions]
-    E --> G
-    F --> H[Scalable Applications]
-    G --> H
-    H --> I[Industry Innovation]
-    
-    style A fill:#00C9FF,stroke:#92FE9D,stroke-width:3px,color:#000
-    style I fill:#92FE9D,stroke:#00C9FF,stroke-width:3px,color:#000
-```
-
-</div>
 
 <br>
 
 <!-- Writing & Content -->
-## ✍️ Technical Writing
+## Technical Writing
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Currently Documenting:**
 
-- 🌐 **Web Development** - Best practices and modern frameworks
-- 🐍 **Python** - Advanced concepts and real-world applications  
-- ☁️ **AWS Cloud** - Architecture patterns and optimization techniques
+- **Web Development** - Best practices and modern frameworks
+- **Python** - Advanced concepts and real-world applications  
+- **AWS Cloud** - Architecture patterns and optimization techniques
 
 <br>
 
 <!-- Connect Section -->
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
-### 📫 Reach Out
+### Reach Out
 
-<a href="mailto:jamil@studioriad.com">
+<a href="mailto:jamilifat@hotmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/jamil-ifat">
@@ -231,7 +188,7 @@ graph LR
 <a href="https://twitter.com/jamil-ifat">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="https://jamil-ifat.dev">
+<a href="https://jamilifat.com">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -268,6 +225,6 @@ graph LR
 <!-- Animated Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-**⭐ From [Jamil Ifat](https://github.com/jamil-ifat) | Building the Future, One Commit at a Time**
+//**⭐ From [Jamil Ifat](https://github.com/jamil-ifat) | Building the Future, One Commit at a Time**
 
 </div>
