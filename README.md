@@ -8,7 +8,7 @@
 
 <!-- Striking Name Header with Custom Styling -->
 <h1>
-  I'm <span style="background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Jamil Ifat</span>
+  Hi, I'm <span style="background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Jamil Ifat</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -25,13 +25,6 @@
 </p>
 
 <br>
-
-<!-- Animated Snake Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -147,7 +140,7 @@ Marketing Tech:
 <br>
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamil-ifat&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=FFFFFF"/>
@@ -192,9 +185,9 @@ Marketing Tech:
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br><br>
+<br>
 
-### 💡 Open to Discuss
+### Open to Discuss
 
 <img src="https://img.shields.io/badge/-Full--Stack_Development-00C9FF?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/-API_Integration-92FE9D?style=flat-square&logo=fastapi&logoColor=black" />
@@ -210,7 +203,7 @@ Marketing Tech:
 <!-- Quote Section -->
 <div align="center">
 
-### 💭 Philosophy
+### Philosophy
 
 > *"Code is not just about solving problems – it's about crafting experiences,*  
 > *building systems that scale, and creating value that lasts."*
