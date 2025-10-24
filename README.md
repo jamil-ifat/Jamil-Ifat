@@ -1,10 +1,6 @@
 <div align="center">
 
 <!-- Custom Matrix-Style Hero Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
-  <img width="100%" alt="Hero Banner" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
-</picture>
 
 <!-- Striking Name Header with Custom Styling -->
 <h1>
@@ -143,12 +139,8 @@ Marketing Tech:
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamil-ifat&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamil-ifat&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamil-ifat&theme=react&hide_border=true&background=0D1117&stroke=00C9FF&ring=92FE9D&fire=FF6B9D&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamil-ifat&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF"/>
 </div>
 
 
@@ -213,7 +205,7 @@ Marketing Tech:
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=jamil-ifat&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
 
-<br><br>
+<br>
 
 <!-- Animated Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
